@@ -1,0 +1,19 @@
+{
+  "name": "rss_nodejs_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttsz/rss_nodejs_test.git"
+  },
+  "author": "László Tóth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttsz/rss_nodejs_test/issues"
+  },
+  "homepage": "https://github.com/ttsz/rss_nodejs_test#readme"
+}
